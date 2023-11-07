@@ -4,7 +4,7 @@
 
 gen.py - generate random tests, modify it within IO of your program. \
 stress.py - run stresses. \
-a.out - built of your cpp program(.so or .out)
+a.out - built of your cpp program(.so, .out, .a, etc.)
 
 **Run:** `python stress.py **your-built-file** gen.py **number of tests**
 `
